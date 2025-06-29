@@ -94,6 +94,7 @@ header h1 span {
   background-color: #444;
 }
 
+
 .video-presentacion,
 .proyectos {
   text-align: center;
@@ -115,5 +116,3 @@ header h1 span {
 .boton-link:hover {
   background-color: #666;
 }
-
-
