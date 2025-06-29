@@ -93,3 +93,27 @@ header h1 span {
 .boton-descarga:hover {
   background-color: #444;
 }
+
+.video-presentacion,
+.proyectos {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.boton-link {
+  display: inline-block;
+  background-color: #444;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin: 5px;
+}
+
+.boton-link:hover {
+  background-color: #666;
+}
+
+
